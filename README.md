@@ -108,8 +108,9 @@ ai-decision-support/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
 ├── README.md           # This file
-└── loan_data.csv       # Example dataset (optional)
+└── loan_data_samples.csv       # Example dataset (optional)
 ```
+
 
 ## Deployment on Render
 Push to GitHub:
