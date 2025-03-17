@@ -1,0 +1,5 @@
+CustomerID,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+7590-VHVEG,1,29.85,29.85,Month-to-month,Electronic check,Yes
+5575-GNVDE,34,56.95,1889.50,One year,Mailed check,No
+3668-QPYBK,2,53.85,108.15,Month-to-month,Credit card,Yes
+7795-CFOCW,45,42.30,1840.75,One year,Bank transfer,No

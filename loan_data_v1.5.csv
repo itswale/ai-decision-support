@@ -1,0 +1,7 @@
+CustomerID,Income,CreditScore,LoanAmount,EmploymentStatus,Default
+CUST001,45000.0,720,10000.0,Employed,No
+CUST002,25000.0,580,15000.0,Unemployed,Yes
+CUST003,60000.0,800,5000.0,Self-Employed,No
+CUST004,30000.0,620,12000.0,Employed,Yes
+CUST005,70000.0,750,8000.0,Employed,No
+CUST006,20000.0,540,20000.0,Unemployed,Yes
